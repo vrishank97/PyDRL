@@ -1,4 +1,4 @@
-# PyRL
+# PyDRL
 A Python Deep Reinforcement Learning library. We make the whl so that you don't have to reinvent it
 
 
